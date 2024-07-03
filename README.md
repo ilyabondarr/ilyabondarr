@@ -1,5 +1,7 @@
 <table align="center">
-      <img src="https://i.pinimg.com/originals/fe/34/2f/fe342f20baaecec2fdb27ae3ae17b054.gif" alt="Описание изображения">
+<p align="center">
+      <img  src="https://i.pinimg.com/originals/fe/34/2f/fe342f20baaecec2fdb27ae3ae17b054.gif" alt="Описание изображения">
+</p>
   <tr>
     <td>
       <p>
