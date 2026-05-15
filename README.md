@@ -1,12 +1,10 @@
-<h1 align="center">Hello, I'm Ilya</h1>
-
-<h3 align="center">Beginner frontend developer</h3>
+<h3 align="center">web developer</h3>
 
 <div align="center">
-<p align="center">
+<!-- <p align="center">
       <img  src="https://i.pinimg.com/originals/fe/34/2f/fe342f20baaecec2fdb27ae3ae17b054.gif" alt="Описание изображения">
 </p>
-      
+       -->
 <div align="center">
   <a  href="https://t.me/Banttex">
     <img src="https://img.icons8.com/color/100/000000/telegram-app.png" alt="Telegram">
